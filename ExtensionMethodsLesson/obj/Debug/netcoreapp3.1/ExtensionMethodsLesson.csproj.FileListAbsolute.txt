@@ -1,0 +1,13 @@
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\bin\Debug\netcoreapp3.1\ExtensionMethodsLesson.exe
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\bin\Debug\netcoreapp3.1\ExtensionMethodsLesson.deps.json
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\bin\Debug\netcoreapp3.1\ExtensionMethodsLesson.runtimeconfig.json
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\bin\Debug\netcoreapp3.1\ExtensionMethodsLesson.runtimeconfig.dev.json
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\bin\Debug\netcoreapp3.1\ExtensionMethodsLesson.dll
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\bin\Debug\netcoreapp3.1\ExtensionMethodsLesson.pdb
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\obj\Debug\netcoreapp3.1\ExtensionMethodsLesson.csprojAssemblyReference.cache
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\obj\Debug\netcoreapp3.1\ExtensionMethodsLesson.AssemblyInfoInputs.cache
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\obj\Debug\netcoreapp3.1\ExtensionMethodsLesson.AssemblyInfo.cs
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\obj\Debug\netcoreapp3.1\ExtensionMethodsLesson.csproj.CoreCompileInputs.cache
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\obj\Debug\netcoreapp3.1\ExtensionMethodsLesson.dll
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\obj\Debug\netcoreapp3.1\ExtensionMethodsLesson.pdb
+C:\repos\ExtensionMethodsLesson\ExtensionMethodsLesson\obj\Debug\netcoreapp3.1\ExtensionMethodsLesson.genruntimeconfig.cache
